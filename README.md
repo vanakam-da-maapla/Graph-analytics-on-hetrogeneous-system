@@ -12,7 +12,8 @@ PPT - https://github.com/vanakam-da-maapla/Graph-analytics-on-hetrogeneous-syste
 
 + https://cds.iisc.ac.in/faculty/vss/courses/PPP2014/projects/prev/aakriti.pdf
 + https://www.osti.gov/servlets/purl/951102
-
+---
+  
 ##### Distributed
 + https://ieeexplore.ieee.org/document/9996833
 + https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9006576
